@@ -33,7 +33,7 @@ datatype and data contain no missing values. So, it's a suitable data for analys
 * Boxplots are a better approach to show how features are distributed because we're working with bigger ranges and more continuous
 characteristics.
 * We can depict from the above plot that Churn feature has significant positive correlation with DayMins (0.21), CustServCalls
-(0.21), IntlPlan(0.26) and DayCharge(0.21).
+(0.21), IntlPlan (0.26) and DayCharge (0.21).
 These features would be most significant predictors in developing a classification model for customer churn predictions.
 * After optimising hyperparameters, the KNN model achieves the highest accuracy of 86.60 percent. By integrating more
 relevant characteristics in the classification model and including more training data in the model, the predictive model's accuracy can be
