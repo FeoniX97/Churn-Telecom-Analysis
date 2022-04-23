@@ -23,7 +23,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 1. Can we develop reliable prediction model for customer churn in our company?
 We'll develop a detailed report of different accuracy metrics for the classification model
 
-2. The data has rich, machine readable file format and metadata. We can observe in dataset that most of the features are numerical
+2. The <a href="https://github.com/FeoniX97/Churn-Telecom-Analysis/blob/main/datasets/Telecom_churn.csv">data</a> has rich, machine readable file format and metadata. We can observe in dataset that most of the features are numerical
 datatype and data contain no missing values. So, it's a suitable data for analysis and devloping machine learing model.
 
 3. The telecom firm is experiencing a high rate of client turnover and is unable to pinpoint the cause. They want us to write an analysis
