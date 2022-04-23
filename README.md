@@ -1,7 +1,7 @@
 # Churn-Telecom-Analysis
 
 ## About
-This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on telecom churns from Kaggle Database APIs. For detailed walkthrough, please view the source code from <a href="https://github.com/FeoniX97/Churn-Telecom-Analysis/blob/main/Predictive%20Modelling.ipynb">here</a>.
+This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on telecom churns from Kaggle Database. For detailed walkthrough, please view the source code from <a href="https://github.com/FeoniX97/Churn-Telecom-Analysis/blob/main/Predictive%20Modelling.ipynb">here</a>.
 
 ## Contributors
 * @FeoniX97
@@ -26,6 +26,7 @@ datatype and data contain no missing values. So, it's a suitable data for analys
 ## Models Used
 * Classification
 * Logistic Regression
+* Random Forest
 * Support vector machines (SVM)
 * K-nearest neighbors (KNN)
 
@@ -33,4 +34,5 @@ datatype and data contain no missing values. So, it's a suitable data for analys
 * <a href="https://www.kaggle.com/becksddf/churn-in-telecoms-dataset">https://www.kaggle.com/becksddf/churn-in-telecoms-datase</a>
 * <a href="https://towardsdatascience.com/machine-learning-classifiers-a5cc4e1b0623">https://towardsdatascience.com/machine-learning-classifiers-a5cc4e1b0623</a>
 * <a href="https://towardsdatascience.com/introduction-to-logistic-regression-66248243c148">https://towardsdatascience.com/introduction-to-logistic-regression-66248243c148</a>
+* <a href="https://towardsdatascience.com/understanding-random-forest-58381e0602d2">https://towardsdatascience.com/understanding-random-forest-58381e0602d2</a>
 * <a href="https://towardsdatascience.com/comparative-study-on-classic-machine-learning-algorithms-24f9ff6ab222">https://towardsdatascience.com/comparative-study-on-classic-machine-learning-algorithms-24f9ff6ab222</a>
