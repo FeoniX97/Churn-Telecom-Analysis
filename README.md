@@ -24,7 +24,6 @@ The <a href="https://github.com/FeoniX97/Churn-Telecom-Analysis/blob/main/datase
 datatype and data contain no missing values. So, it's a suitable data for analysis and devloping machine learing model.
 
 ## Models Used
-* Classification
 * Logistic Regression
 * Random Forest
 * Support vector machines (SVM)
