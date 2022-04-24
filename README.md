@@ -40,7 +40,7 @@ relevant characteristics in the classification model and including more training
 further improved.
 
 ## References
-* <a href="https://www.kaggle.com/becksddf/churn-in-telecoms-dataset">https://www.kaggle.com/becksddf/churn-in-telecoms-datase</a>
+* <a href="https://www.kaggle.com/mnassrib/telecom-churn-datasets">https://www.kaggle.com/mnassrib/telecom-churn-datasets</a>
 * <a href="https://towardsdatascience.com/machine-learning-classifiers-a5cc4e1b0623">https://towardsdatascience.com/machine-learning-classifiers-a5cc4e1b0623</a>
 * <a href="https://towardsdatascience.com/introduction-to-logistic-regression-66248243c148">https://towardsdatascience.com/introduction-to-logistic-regression-66248243c148</a>
 * <a href="https://towardsdatascience.com/understanding-random-forest-58381e0602d2">https://towardsdatascience.com/understanding-random-forest-58381e0602d2</a>
